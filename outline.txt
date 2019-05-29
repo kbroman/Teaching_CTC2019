@@ -14,3 +14,8 @@
 - find traits that are correlated
 
 - display the genome scan in the genetics browser
+
+
+---
+
+convert notebook to html and put in docs/ for viewing on web
