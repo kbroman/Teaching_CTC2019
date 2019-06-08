@@ -1,5 +1,7 @@
 ## Mapping QTL in BXD mice using R/qtl2
 
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
+
 This is a short tutorial on QTL analysis in the BXD mouse recombinant
 inbred lines using [R/qtl2](https://kbroman.org/qtl2), to be presented
 at the [Complex Trait Community](http://ratgenes.org/ctc2019/) meeting
