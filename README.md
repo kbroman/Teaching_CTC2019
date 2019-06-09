@@ -2,7 +2,7 @@
 
 Jupyter notebook: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kbroman/FruitSnacksBinder/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?urlpath=rstudio)
 
 
 This is a short tutorial on QTL analysis in the BXD mouse recombinant
