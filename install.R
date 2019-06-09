@@ -1,1 +1,4 @@
-install.packages(c("GNapi", "qtl2", "qtl2browse"), repos="http://rqtl.org/qtl2browse")
+install.packages("devtools")
+devtools::install_github("rqtl/qtl2")
+devtools::install_github("rqtl/GNapi")
+devtools::install_github("rqtl/qtl2browse")
