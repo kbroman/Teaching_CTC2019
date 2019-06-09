@@ -4,7 +4,7 @@
 
 This is a short tutorial on QTL analysis in the BXD mouse recombinant
 inbred lines using [R/qtl2](https://kbroman.org/qtl2), to be presented
-at the [Complex Trait Community](http://ratgenes.org/ctc2019/) meeting
+at the [Complex Trait Community meeting](http://ratgenes.org/ctc2019/)
 in San Diego on 9 June 2019.
 
 The goal is to demonstrate
