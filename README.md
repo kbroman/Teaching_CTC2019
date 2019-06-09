@@ -1,6 +1,9 @@
 ## Mapping QTL in BXD mice using R/qtl2
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
+Jupyter notebook: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
+
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kbroman/FruitSnacksBinder/master?urlpath=rstudio)
+
 
 This is a short tutorial on QTL analysis in the BXD mouse recombinant
 inbred lines using [R/qtl2](https://kbroman.org/qtl2), to be presented
@@ -18,6 +21,16 @@ The goal is to demonstrate
 - browsing QTL results using the [Genetics Genome
   Browser](https://github.com/chfi/purescript-genome-browser) and the
   [R/qtl2browse](https://github.com/rqtl/qtl2browse) package
+
+It's presented both as a [Jupyter notebook](CTC2019_tutorial.ipynb)
+and as [R Markdown](CTC2019_tutorial.Rmd). The compiled R Markdown
+file is at
+<https://kbroman.org/Teaching_CTC2019/CTC2019_tutorial.html>.
+
+Live versions of the Jupyter notebook, or of RStudio with appropriate
+packages installed, are available via the above
+[binder](https://gke.mybinder.org/) badges.
+
 
 ---
 
