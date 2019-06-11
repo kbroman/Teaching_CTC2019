@@ -62,7 +62,7 @@ pheno <- setNames(phe$value, phe$sample_name)
 head(pheno)
 ```
 
-## Acquire genotype data with R/qtl2
+## Acquiring genotype data with R/qtl2
 
 We now want to get genotype data for the BXD panel. We first need to
 install the [R/qtl2](https://kbroman.org/qtl2) package. As with
@@ -110,6 +110,8 @@ this Jupyter notebook, and so here we need to surround it with
 ```{r summary_bxd}
 summary(bxd)
 ```
+
+## QTL mapping in R/qtl2
 
 The first step in QTL analysis is to calculate genotype probabilities
 at putative QTL positions across the genome, conditional on the
@@ -220,7 +222,7 @@ par(mar=c(5.1, 4.1, 0.6, 0.6))
 plot_pxg(g_imp, pheno, swap_axes=TRUE, xlab="Habituation phenotype")
 ```
 
-## Browse genome scan results with Genetics Genome Browser
+## Browsing genome scan results with the Genetics Genome Browser
 
 The [Genetics Genome Browser](https://github.com/chfi/purescript-genome-browser) is a fast, lightweight, [purescript]-based genome browser developed for browsing GWAS or QTL analysis results. We'll use the R package [R/qtl2browse](https://github.com/rqtl/qtl2browse) to view our QTL mapping results in the GGB.
 
